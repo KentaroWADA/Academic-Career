@@ -1,6 +1,21 @@
-# Master-Thesis
-R Code and Dataset for Master's Thesis at Kobe University
+# Master-Thesis: 
 
-## member
+### Kentaro WADA, Graduate Student in the Graduate School of International Cooperation Studies (GSICS) at Kobe University
 
-* member
+## About
+
+Uploaded here are R Code and Dataset for Kentaro Wada's Master's Thesis at Kobe University
+
+## R code
+
+R code are found in "R" [R folder](R) 
+
+## Related Website
+
+- [Personal Website](http://kentaro-wada.strikingly.com)
+- [Facebook](https://www.facebook.com/kentaro.wada.1114)
+- [Twitter](https://twitter.com/27Kentaro)
+
+## License
+
+The contents in this directory is released under the MIT License. See [LICENSE.txt](LICENSE.txt).
