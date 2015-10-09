@@ -8,7 +8,7 @@ Uploaded here are R Code and Dataset for Master's Thesis at Kobe University
 
 ## R code
 
-R code are found in  [R] folder(R) 
+R code are found in  [R] folder
 
 ## Related Website
 
