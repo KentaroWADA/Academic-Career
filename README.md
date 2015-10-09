@@ -4,11 +4,11 @@
 
 ## About
 
-Uploaded here are R Code and Dataset for Kentaro Wada's Master's Thesis at Kobe University
+Uploaded here are R Code and Dataset for Master's Thesis at Kobe University
 
 ## R code
 
-R code are found in "R" [R folder](R) 
+R code are found in  [R] folder(R) 
 
 ## Related Website
 
