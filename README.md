@@ -2,8 +2,9 @@
 
 ## Personal Introduction
 
-- 2010 - 2014, undergraduate student in the School of Policy Studies at Kwansei Gakuin University.
-- 2014 - Present, graduate student in the Graduate School of International Cooperation Studies (GSICS) at Kobe University
+- April 2010 - March 2014, undergraduate student in the School of Policy Studies at Kwansei Gakuin University.
+- April 2014 - March 2016, graduate student in the Graduate School of International Cooperation Studies (GSICS) at Kobe University
+- April 2016 - Present, working for [Sumitomo Rubber Industries, Ltd](http://www.srigroup.co.jp/english/) as an international business specialist.
 
 ## About
 
